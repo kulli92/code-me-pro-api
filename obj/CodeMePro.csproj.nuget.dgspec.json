@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\abdul\\Desktop\\test code.pro\\API\\CodeMePro.csproj": {}
+    "C:\\Users\\abdul\\Desktop\\test code.pro\\API\\CodeMePro.csproj": {}
   },
   "projects": {
-    "c:\\Users\\abdul\\Desktop\\test code.pro\\API\\CodeMePro.csproj": {
+    "C:\\Users\\abdul\\Desktop\\test code.pro\\API\\CodeMePro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\abdul\\Desktop\\test code.pro\\API\\CodeMePro.csproj",
+        "projectUniqueName": "C:\\Users\\abdul\\Desktop\\test code.pro\\API\\CodeMePro.csproj",
         "projectName": "CodeMePro",
-        "projectPath": "c:\\Users\\abdul\\Desktop\\test code.pro\\API\\CodeMePro.csproj",
+        "projectPath": "C:\\Users\\abdul\\Desktop\\test code.pro\\API\\CodeMePro.csproj",
         "packagesPath": "C:\\Users\\abdul\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\abdul\\Desktop\\test code.pro\\API\\obj\\",
+        "outputPath": "C:\\Users\\abdul\\Desktop\\test code.pro\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abdul\\AppData\\Roaming\\NuGet\\NuGet.Config"

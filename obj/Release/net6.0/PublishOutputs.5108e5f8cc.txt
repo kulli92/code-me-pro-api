@@ -1,6 +1,11 @@
 C:\Users\abdul\Desktop\test code.pro\API\publish\CodeMePro.exe
+C:\Users\abdul\Desktop\test code.pro\API\publish\publish\web.config
 C:\Users\abdul\Desktop\test code.pro\API\publish\appsettings.Development.json
 C:\Users\abdul\Desktop\test code.pro\API\publish\appsettings.json
+C:\Users\abdul\Desktop\test code.pro\API\publish\publish\appsettings.Development.json
+C:\Users\abdul\Desktop\test code.pro\API\publish\publish\appsettings.json
+C:\Users\abdul\Desktop\test code.pro\API\publish\publish\CodeMePro.deps.json
+C:\Users\abdul\Desktop\test code.pro\API\publish\publish\CodeMePro.runtimeconfig.json
 C:\Users\abdul\Desktop\test code.pro\API\publish\CodeMePro.dll
 C:\Users\abdul\Desktop\test code.pro\API\publish\CodeMePro.runtimeconfig.json
 C:\Users\abdul\Desktop\test code.pro\API\publish\CodeMePro.pdb

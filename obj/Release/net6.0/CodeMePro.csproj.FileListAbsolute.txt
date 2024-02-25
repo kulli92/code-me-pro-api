@@ -33,3 +33,8 @@ C:\Users\abdul\Desktop\test code.pro\API\obj\Release\net6.0\refint\CodeMePro.dll
 C:\Users\abdul\Desktop\test code.pro\API\obj\Release\net6.0\CodeMePro.pdb
 C:\Users\abdul\Desktop\test code.pro\API\obj\Release\net6.0\CodeMePro.genruntimeconfig.cache
 C:\Users\abdul\Desktop\test code.pro\API\obj\Release\net6.0\ref\CodeMePro.dll
+C:\Users\abdul\Desktop\test code.pro\API\bin\Release\net6.0\publish\web.config
+C:\Users\abdul\Desktop\test code.pro\API\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\abdul\Desktop\test code.pro\API\bin\Release\net6.0\publish\appsettings.json
+C:\Users\abdul\Desktop\test code.pro\API\bin\Release\net6.0\publish\CodeMePro.deps.json
+C:\Users\abdul\Desktop\test code.pro\API\bin\Release\net6.0\publish\CodeMePro.runtimeconfig.json
