@@ -1,12 +1,11 @@
-﻿using System;
-using Microsoft.EntityFrameworkCore.Metadata;
+﻿using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
 namespace CodeMePro.Migrations
 {
-    public partial class AddedInitialDataModel : Migration
+    public partial class InitialDeployment : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -34,8 +33,7 @@ namespace CodeMePro.Migrations
                 columns: table => new
                 {
                     OrderId = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn),
-                    OrderDate = table.Column<DateTime>(type: "datetime(6)", nullable: false)
+                        .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn)
                 },
                 constraints: table =>
                 {

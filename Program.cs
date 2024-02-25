@@ -15,6 +15,17 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     ).EnableSensitiveDataLogging()
 );
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowEverything", policy =>
+    {
+        policy.AllowAnyOrigin()
+              .AllowAnyMethod()
+              .AllowAnyHeader();
+    });
+});
+
+
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<IOrderService, OrderService>();
@@ -22,12 +33,10 @@ builder.Services.AddScoped<IGenericRepository, GenericRepository>();
 
 var app = builder.Build();
 
-app.UseCors(builder =>
-{
-    builder.WithOrigins("http://localhost:4200")
-           .AllowAnyHeader()
-           .AllowAnyMethod();
-});
+app.UseCors("AllowEverything");
+
+
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

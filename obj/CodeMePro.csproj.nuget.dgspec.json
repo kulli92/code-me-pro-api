@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdul\\Desktop\\test code.pro\\API\\CodeMePro.csproj": {}
+    "c:\\Users\\abdul\\Desktop\\test code.pro\\API\\CodeMePro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdul\\Desktop\\test code.pro\\API\\CodeMePro.csproj": {
+    "c:\\Users\\abdul\\Desktop\\test code.pro\\API\\CodeMePro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdul\\Desktop\\test code.pro\\API\\CodeMePro.csproj",
+        "projectUniqueName": "c:\\Users\\abdul\\Desktop\\test code.pro\\API\\CodeMePro.csproj",
         "projectName": "CodeMePro",
-        "projectPath": "C:\\Users\\abdul\\Desktop\\test code.pro\\API\\CodeMePro.csproj",
+        "projectPath": "c:\\Users\\abdul\\Desktop\\test code.pro\\API\\CodeMePro.csproj",
         "packagesPath": "C:\\Users\\abdul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdul\\Desktop\\test code.pro\\API\\obj\\",
+        "outputPath": "c:\\Users\\abdul\\Desktop\\test code.pro\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abdul\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,7 +50,7 @@
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
-              "version": "[6.0.2, )"
+              "version": "[6.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

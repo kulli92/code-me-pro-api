@@ -1,0 +1,17 @@
+C:\Users\abdul\Desktop\test code.pro\API\publish\CodeMePro.exe
+C:\Users\abdul\Desktop\test code.pro\API\publish\appsettings.Development.json
+C:\Users\abdul\Desktop\test code.pro\API\publish\appsettings.json
+C:\Users\abdul\Desktop\test code.pro\API\publish\CodeMePro.dll
+C:\Users\abdul\Desktop\test code.pro\API\publish\CodeMePro.runtimeconfig.json
+C:\Users\abdul\Desktop\test code.pro\API\publish\CodeMePro.pdb
+C:\Users\abdul\Desktop\test code.pro\API\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\abdul\Desktop\test code.pro\API\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\abdul\Desktop\test code.pro\API\publish\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\abdul\Desktop\test code.pro\API\publish\Microsoft.OpenApi.dll
+C:\Users\abdul\Desktop\test code.pro\API\publish\MySqlConnector.dll
+C:\Users\abdul\Desktop\test code.pro\API\publish\Newtonsoft.Json.dll
+C:\Users\abdul\Desktop\test code.pro\API\publish\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\abdul\Desktop\test code.pro\API\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\abdul\Desktop\test code.pro\API\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\abdul\Desktop\test code.pro\API\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\abdul\Desktop\test code.pro\API\publish\CodeMePro.deps.json

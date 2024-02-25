@@ -23,5 +23,6 @@ public class ApplicationDbContext : DbContext
         modelBuilder.Entity<Product>().HasData(ProductSeedData.GetProducts());
 
         modelBuilder.Entity<CourierCharge>().HasData(CourierChargeSeedData.GetCourierCharges());
+
     }
 }
